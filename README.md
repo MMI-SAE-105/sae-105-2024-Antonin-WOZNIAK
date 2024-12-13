@@ -3,11 +3,11 @@
 
 À compléter :
 
-- NOM :
-- PRÉNOM :
-- GROUPE :
+- NOM : WOZNIAK
+- PRÉNOM : ANTONIN
+- GROUPE : C2 
 - URL du site :
-- URL FIGMA :
+- URL FIGMA : https://www.figma.com/design/3qv87gO7CwPhwfifDNAlWE/SAE-103-Antonin-WOZNIAK-MMI-C2-2024?node-id=1-3&t=LKqu4WdLJVDTLNaQ-1
 
 ## Sujet
 
